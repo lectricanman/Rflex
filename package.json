@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/lectricanman/Rflex/issues"
   },
-  "homepage": "https://github.com/lectricanman/Rflex#readme"
+  "homepage": "https://github.com/lectricanman/Rflex#readme",
+  "dependencies": {
+    "angular": "^1.4.8",
+    "body-parser": "^1.14.1",
+    "cookie-parser": "^1.4.0",
+    "express": "^4.13.3",
+    "mongoose": "^4.2.9",
+    "morgan": "^1.6.1"
+  }
 }
