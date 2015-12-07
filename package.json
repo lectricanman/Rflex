@@ -1,0 +1,19 @@
+{
+  "name": "rflex",
+  "version": "1.0.0",
+  "description": "Rflex is a simple webgame where players click waves of targets to score!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lectricanman/Rflex.git"
+  },
+  "author": "Brandon Abrams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lectricanman/Rflex/issues"
+  },
+  "homepage": "https://github.com/lectricanman/Rflex#readme"
+}
