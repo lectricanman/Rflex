@@ -1,7 +1,8 @@
+'use strict';
 let express = require('express'),
     router = express.Router(),
     bodyParser = require('body-parser'),
-    method-override = require('method-override');
+    methodOverride = require('method-override');
 
 let usersController = require('../controllers/users');
 
